@@ -1,0 +1,44 @@
+Metadata-Version: 2.1
+Name: Processamento-de-imagem
+Version: 0.0.1
+Summary: Pacote de processamento de imagens com skimage
+Home-page: https://github.com/GustavoAlbano98/Processador_de_Imagens
+Author: Gustavo Costa
+Author-email: gustavoalbano1998@gmail.com
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+
+# CRIAÃ‡ÃƒO DE PACOTES DE PROCESSAMENTO DE IMAGENS
+
+DESCRIÃ‡ÃƒO
+O image_processing Ã© usado para:
+
+Em processamento:
+
+- Correspondencia de histograma
+- Semelhanca estrutural
+- Redimensionar imagem
+
+Util:
+
+- Ler imagem
+- Salvar imagem
+- Plotar imagem
+- Resultado da trama
+- Plotar histograma
+
+## InstalaÃ§Ã£o
+
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install image_processing_package
+
+```bash
+pip install image_processing_package
+```
+
+## Author
+
+JoÃ£o Gustavo Costa
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
